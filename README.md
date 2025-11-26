@@ -30,7 +30,8 @@ Implementação de algoritmos de ordenação em C.
 ### 🗄️ BD-Modelagem
 
 **Cidade Inteligente**  
-Sistema completo de modelagem de banco de dados educacional utilizando pgAdmin 4.
+Sistema completo de modelagem de banco de dados educacional utilizando pgAdmin 4.  
+
 
 **Etapas do Projeto:**
 - Modelo Conceitual
