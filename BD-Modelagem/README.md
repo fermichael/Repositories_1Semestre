@@ -2,7 +2,7 @@
 Este projeto é um sistema de banco de dados completo para gerenciamento de uma cidade educacional inteligente, desenvolvido ao longo do primeiro semestre. O projeto abrange desde a concepção até a implementação, incluindo Projeto Conceitual, Projeto Lógico, Modelo Físico e Dicionário de Dados. O sistema gerencia instituições de ensino, cursos, disciplinas, turmas, salas, pessoas (alunos, professores e funcionários) e seus relacionamentos.
 
 ## Tecnologias e Recursos Utilizados
-**Linguagem:** SQL
+**Linguagem:** Postgree
 
 **Sistema de Gerenciamento de Banco de Dados:** PostgreSQL
 
