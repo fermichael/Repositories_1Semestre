@@ -55,8 +55,8 @@ Projeto de avaliação da disciplina desenvolvido com HTML e CSS.
 
 ## Stack Tecnológica
 
-**Backend:** C, pgAdmin 4  
-**Frontend:** HTML5, CSS3, JavaScript  
+**Backend:** C  
+**Frontend:** HTML5, CSS3, JavaScript, pgAdmin4
 **Frameworks:** Bootstrap, Materialize  
 **Ferramentas:** Git, VS Code, pgAdmin 4, Dev-C++
 
